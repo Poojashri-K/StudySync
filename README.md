@@ -41,14 +41,14 @@ StudySync is a smart study planner that helps students organize daily study task
 
 ## How to Run
 
-1. Clone the repository.
-2. Open the project in VS Code.
-3. Navigate to the backend folder.
-4. Copy `.env.example` to `.env`.
-5. Configure the MongoDB connection string and JWT secret in the `.env` file.
-6. Install backend dependencies: npm install
-7. 7. Start the backend server: npm run dev
-8. Open a new terminal and navigate to the frontend folder.
-9. Install frontend dependencies: npm install
-10. Start the frontend: npm run dev
-11. Open the application in your browser using the local URL displayed by Vite.
+- Clone the repository.
+- Open the project in VS Code.
+- Navigate to the backend folder.
+- Copy `.env.example` to `.env`.
+- Configure the MongoDB connection string and JWT secret in the `.env` file.
+- Install backend dependencies: npm install
+- Start the backend server: npm run dev
+- Open a new terminal and navigate to the frontend folder.
+- Install frontend dependencies: npm install
+- Start the frontend: npm run dev
+- Open the application in your browser using the local URL displayed by Vite.
