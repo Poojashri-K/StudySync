@@ -52,3 +52,7 @@ StudySync is a smart study planner that helps students organize daily study task
 - Install frontend dependencies: npm install
 - Start the frontend: npm run dev
 - Open the application in your browser using the local URL displayed by Vite.
+
+## Live Demo
+
+studysync-pooja.vercel.app
