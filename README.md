@@ -55,4 +55,4 @@ StudySync is a smart study planner that helps students organize daily study task
 
 ## Live Demo
 
-studysync-pooja.vercel.app
+https://studysync-pooja.vercel.app
